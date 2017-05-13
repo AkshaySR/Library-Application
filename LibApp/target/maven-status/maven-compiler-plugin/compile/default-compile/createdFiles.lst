@@ -1,0 +1,13 @@
+com\libapp\entity\Book.class
+com\libapp\entity\User.class
+com\libapp\entity\Genre.class
+com\libapp\controller\UserController.class
+com\libapp\entity\Publisher.class
+com\libapp\entity\Branch.class
+com\libapp\entity\request\AddUserRequest.class
+com\libapp\entity\BookLoans.class
+com\libapp\entity\BookCopies.class
+com\libapp\entity\Author.class
+com\libapp\LibAppApplication.class
+com\libapp\repository\UserRepository.class
+com\libapp\entity\Borrower.class
