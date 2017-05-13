@@ -26,7 +26,7 @@ public class UserController {
     @CrossOrigin(origins = "http://localhost:4200")
     List<User> home() {
         List<User> users = findAllUsers();
-
+        System.out.println("TEsting git");
         return users;
     }
 
